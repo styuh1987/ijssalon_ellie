@@ -5,3 +5,4 @@ print(lengte * "*")
 print(f"* {tekst} *")
 print(lengte * "*")
 print()
+
